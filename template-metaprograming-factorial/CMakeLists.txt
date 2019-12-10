@@ -3,6 +3,8 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
+project(TemplateMetaprogrammingFactorialSolution)
+
 # Add source to this project's executable.
 add_executable (template-metaprograming-factorial "template-metaprograming-factorial.cpp")
 
